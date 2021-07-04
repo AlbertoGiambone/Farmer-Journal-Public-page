@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=');
+
+html, body {
+
+    height: 100%;
+    width: 100%;
+    font-family: "Galvji" !important;
+    color: rgb(0,102,102);
+    background-color: rgb(255,255,255);
+}
+
+#titolo{
+
+    font-family: "Galviji";
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+#sottotitolo{
+    font-family: "Galviji";
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#motto{
+    font-family: "Galviji";
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+}
