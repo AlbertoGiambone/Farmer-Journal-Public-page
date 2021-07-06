@@ -15,6 +15,7 @@ html, body {
     font-weight: bold;
     font-size: 35px;
     text-align: center;
+    color:black;
 }
 
 #sottotitolo{
@@ -22,6 +23,7 @@ html, body {
     font-size: 25px;
     font-weight: lighter;
     text-align: center;
+    color: black;
 }
 
 #motto{
@@ -29,9 +31,5 @@ html, body {
     font-size: 20px;
     font-weight: lighter;
     text-align: center;
-}
-
-#testata{
-    background-color: springgreen;
-    position: relative;
+    color: black;
 }
